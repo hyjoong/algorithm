@@ -6,6 +6,10 @@
 
 ### My solution
 
+```javascript
+
+```
+
 ### Other Solutions
 
 ### 배운 점
