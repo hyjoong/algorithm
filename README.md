@@ -28,3 +28,4 @@
   - Math.max(answer, sum1, sum2); // 3개 중의 최대 값 찾아냄
 - 쵀대값 구하는 문제에서 처음 숫자가 할당되게 하려고
   - let temp = Number.MIN_SAFE_INTEGER;
+- Math.floor(x) : 소숫점 버리고 내림
