@@ -31,3 +31,5 @@
 - Math.floor(x) : 소숫점 버리고 내림
 
 - [Array.from](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
+
+- array.sort((a,b)=>a-b)   // 오름차순
