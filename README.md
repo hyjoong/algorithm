@@ -26,14 +26,17 @@
 
 - 격자판 최대합
   - Math.max(answer, sum1, sum2); // 3개 중의 최대 값 찾아냄
-  - Math.max(...arr) // arr 배열안에 요소중의 최대 값 찾아냄 
+  - Math.max(...arr) // arr 배열안에 요소중의 최대 값 찾아냄
 - 쵀대값 구하는 문제에서 처음 숫자가 할당되게 하려고
   - let temp = Number.MIN_SAFE_INTEGER;
 - Math.floor(x) : 소숫점 버리고 내림
 
 - [Array.from](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
 
-- array.sort((a,b)=>a-b)   // 오름차순
+##### 숫자 배열 정렬
+
+- array.sort((a,b)=>a-b) // 오름차순
+- array.sort((a,b)=>b-a) // 내림차순
 
 - trim() = 문자열 양 끝의 공백을 제거 (모든 공백 제거가 아니라 양 끝의 공백)
 
